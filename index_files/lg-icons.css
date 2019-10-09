@@ -1,0 +1,28 @@
+
+/** Icons **/
+i.lg:before{
+    display: block;
+    content: ' ';
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 44px;
+    width: 44px;
+    border: solid 2px white;
+    border-radius: 22px;
+    float: left;
+    margin: 8px;
+
+
+}
+
+i.lg-compare:before{
+    background-image: url('../img/icons/lg-compare.svg');
+}
+i.lg-watch:before{
+    background-image: url('../img/icons/lg-watch.svg');
+}
+i.lg-fullscreen:before{
+    background-image: url('../img/icons/lg-fullscreen.svg');
+}
+

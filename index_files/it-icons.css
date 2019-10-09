@@ -1,0 +1,19 @@
+
+/** Icons **/
+i.it:before{
+    display: block;
+    content: ' ';
+    background-size: 16px 16px;
+    height: 16px;
+    width: 16px;
+}
+
+i.it-milage:before{
+    background-image: url('../img/icons/it-milage.svg');
+}
+i.it-gearbox:before{
+    background-image: url('../img/icons/it-gearbox.svg');
+}
+i.it-fuel:before{
+    background-image: url('../img/icons/it-fuel.svg');
+}

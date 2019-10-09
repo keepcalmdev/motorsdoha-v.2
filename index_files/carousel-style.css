@@ -1,0 +1,75 @@
+.homescreen .carousel-control-prev-icon{
+    background: url("../img/icons/carousel-control-prev-icon.svg");
+    width: 24px;
+    height: 44px;
+    margin-right:  80px;
+
+}
+.homescreen .carousel-control-next-icon{
+    background: url("../img/icons/carousel-control-next-icon.svg");
+    width: 24px;
+    height: 44px;
+    margin-left: 80px;
+}
+#homescreen__slider{
+    margin-top: 145px;
+    padding: 15px;
+
+}
+#homescreen__slider .carousel-inner{
+    padding: 15px;
+
+}
+#homescreen__slider .container{
+    padding-left: 0;
+    padding-right: 0;
+}
+.carousel-item{
+    height: auto;
+}
+.carousel-indicators{
+    justify-content: left;
+    bottom: 50px;
+    margin-left: 11%;
+
+}
+.carousel-indicators li{
+    opacity: 1;
+    width: 31px;
+    height: 5px;
+    background-color: white;
+    border-radius: 5px;
+    display: block;
+    background-clip: unset;
+    border: 0;
+
+}
+.carousel-indicators .active{
+    background-color: #CA0000;
+}
+
+
+.section--body-slider .slick-prev,.testimonials .slick-prev{
+    width: 25px;
+    height: 50px;
+    left: -95px;
+}
+
+.section--body-slider .slick-next,.testimonials .slick-next{
+    width: 25px;
+    height: 50px;
+    right: -95px;
+}
+
+
+
+.section--body-slider .slick-next:before,.testimonials .slick-next:before{
+    content: url("../img/icons/carousel-control-next-icon-red.svg");
+    display: block;
+}
+.section--body-slider .slick-prev:before,.testimonials .slick-prev:before{
+    content: url("../img/icons/carousel-control-prev-icon-red.svg");
+    display: block;
+}
+
+.section--body-slider .container{ padding: 0;}

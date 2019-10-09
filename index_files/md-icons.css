@@ -1,0 +1,52 @@
+
+/** Icons **/
+i.md:before{
+    display: block;
+    content: ' ';
+    background-size: 23px 23px;
+    height: 23px;
+    width: 23px;
+
+
+}
+i.md{display: block;}
+
+i.md-search:before{
+    background-image: url('../img/icons/md-search.svg');
+}
+i.md-cart:before{
+    background-image: url('../img/icons/md-cart.svg');
+}
+i.md-car:before{
+    background-image: url('../img/icons/md-car.svg');
+}
+
+i.md-empty-heart:before{
+    background-image: url('../img/icons/md-empty-heart.svg');
+}
+i.md-full-heart:before{
+    background-image: url('../img/icons/md-full-heart.svg');
+}
+
+i.md-subscribe:before{
+    background-image: url('../img/icons/md-subsrcribe.svg');
+}
+
+
+i.md-facebook:before{
+    background-image: url('../img/icons/md-facebook.svg');
+}
+i.md-twitter:before{
+    background-image: url('../img/icons/md-twitter.svg');
+}
+
+i.md-instgram:before{
+    background-image: url('../img/icons/md-instagram.svg');
+}
+i.md-add-circle:before{
+    background-image: url('../img/icons/md-add-circle.svg');
+}
+
+i.md-hamb:before{
+    background-image: url('../img/icons/md-hamb.svg');
+}
