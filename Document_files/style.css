@@ -99,7 +99,7 @@ h1 span:before{
 
 .logo{
     float: left;
-    background-image: url("../img/logo.svg");
+    background-image: url("logo.svg");
     width: 100%;
     height: 36px;
     background-size: contain;
@@ -108,7 +108,7 @@ h1 span:before{
 }
 .footer-logo{
 
-    background-image: url("../img/footer_logo.svg");
+    background-image: url("footer_logo.svg");
     width: 161px;
     height: 34px;
     margin: 0 auto;
@@ -198,7 +198,7 @@ float: left;
     width: 100%;
     min-height: 720px;
     height: auto;
-    background-image: url("../img/image 31.png");
+    background-image: url("image 31.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -248,7 +248,7 @@ color: white;
     width: 100%;
 
     border: solid 1px #e6e6e6;
-    background: url("../img/icons/select_arrow.svg")  no-repeat;
+    background: url("select_arrow.svg")  no-repeat;
     background-position: right 15px bottom 13px;
     padding-left: 20px;
     border-radius: 10px;
@@ -342,7 +342,7 @@ p.advanced-text a{
     color: #CA0000;
 }
 p.advanced-text:after{
-    content: url("../img/icons/md-bot.svg");
+    content: url("md-bot.svg");
     padding: 5px;
     position: absolute;
     top: 18px;
@@ -364,91 +364,91 @@ p.advanced-text:after{
     text-align: center;
 }
 .micro-bg{
-    background: url("../img/cars1.png") no-repeat;
+    background: url("cars1.png") no-repeat;
     width: 100px;
     height: 65px;
     background-position: -100px -50px;
 }
 .sedan-bg{
-    background: url("../img/cars1.png") no-repeat;
+    background: url("cars1.png") no-repeat;
     width: 163px;
     height: 65px;
     background-position: -230px -48px;
 }
 .coupe-bg{
-    background: url("../img/cars1.png") no-repeat;
+    background: url("cars1.png") no-repeat;
     width: 180px;
     height: 65px;
     background-position: -430px -48px;
 }
 .cabriolet-bg{
-    background: url("../img/cars1.png") no-repeat;
+    background: url("cars1.png") no-repeat;
     width: 180px;
     height: 65px;
     background-position: -644px -48px;
 }
 .roadster-bg{
-    background: url("../img/cars1.png") no-repeat;
+    background: url("cars1.png") no-repeat;
     width: 180px;
     height: 65px;
     background-position: -855px -48px;
 }
 .supercar-bg{
-    background: url("../img/cars1.png") no-repeat;
+    background: url("cars1.png") no-repeat;
     width: 188px;
     height: 65px;
     background-position: -1070px -48px;
 }
 .suv-bg{
-    background: url("../img/cars2.png") no-repeat;
+    background: url("cars2.png") no-repeat;
     width: 150px;
     height: 65px;
     background-position: 7px -69px;
 }
 .hathback-bg{
-    background: url("../img/cars2.png") no-repeat;
+    background: url("cars2.png") no-repeat;
     width: 160px;
     height: 65px;
     background-position: -160px -70px;
 }
 .cuv-bg{
-    background: url("../img/cars2.png") no-repeat;
+    background: url("cars2.png") no-repeat;
     width: 165px;
     height: 65px;
     background-position: -335px -72px;
 }
 .pickup-bg{
-    background: url("../img/cars2.png") no-repeat;
+    background: url("cars2.png") no-repeat;
     width: 215px;
     height: 70px;
     background-position: -515px -66px;
 }
 .minivan-bg{
-    background: url("../img/cars2.png") no-repeat;
+    background: url("cars2.png") no-repeat;
     width: 196px;
     height: 83px;
     background-position: -763px -53px;
 }
 .van-bg{
-    background: url("../img/cars2.png") no-repeat;
+    background: url("cars2.png") no-repeat;
     width: 220px;
     height: 84px;
     background-position: -988px -48px;
 }
 .minitruck-bg{
-    background: url("../img/cars2.png") no-repeat;
+    background: url("cars2.png") no-repeat;
     width: 207px;
     height: 108px;
     background-position: -1238px -25px;
 }
 .campervan-bg{
-    background: url("../img/cars2.png") no-repeat;
+    background: url("cars2.png") no-repeat;
     width: 264px;
     height: 110px;
     background-position: -1470px -18px;
 }
 .truck-bg{
-    background: url("../img/cars2.png") no-repeat;
+    background: url("cars2.png") no-repeat;
     width: 345px;
     height: 132px;
     background-position: -1748px 5px;
@@ -763,7 +763,7 @@ color: #404040;
 .baner-img{
     width: 100%;
     height: 435px;
-    background: url("../img/school_banner.jpg");
+    background: url("school_banner.jpg");
     background-size: cover;
 }
 .ad-box{
@@ -923,7 +923,7 @@ padding: 10px 0;
     height: 510px;
 
    bottom: 0;
-    background: url(../img/ferrari_left.png);
+    background: url(ferrari_left.png);
 
     background-repeat: no-repeat;
     background-position: 0;
@@ -935,7 +935,7 @@ padding: 10px 0;
     height: 510px;
 
     bottom: 0;
-    background: url(../img/ferrari_left.png);
+    background: url(ferrari_left.png);
     background-position: 0;
     background-repeat: no-repeat;
     transform: matrix(-1, 0, 0, 1, 0, 0);

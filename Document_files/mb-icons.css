@@ -1,0 +1,64 @@
+
+/** Icons **/
+
+i.mb:before{
+    display: block;
+    content: ' ';
+    background-size: 40px 40px;
+    height: 40px;
+    width: 40px;
+    margin: 0 auto;
+}
+
+a.nav-link.active i.mb-new-car:before{
+    background-image: url('mb-new-car-red.svg');
+}
+a.nav-link i.mb-new-car:before{
+    background-image: url('mb-new-car.svg');
+}
+
+
+a.nav-link i.mb-used-car:before{
+    background-image: url('mb-used-car.svg');
+
+}
+a.nav-link.active i.mb-used-car:before{
+    background-image: url('mb-used-car-red.svg');
+
+}
+
+a.nav-link i.mb-car-rental:before{
+    background-image: url('mb-car-rental.svg');
+}
+a.nav-link.active i.mb-car-rental:before{
+    background-image: url('mb-car-rental-red.svg');
+}
+
+a.nav-link i.mb-motorcycle:before{
+    background-image: url('mb-motorcycle.svg');
+}
+a.nav-link.active i.mb-motorcycle:before{
+    background-image: url('mb-motorcycle-red.svg');
+}
+
+a.nav-link i.mb-boast:before{
+    background-image: url('mb-boast.svg');
+}
+a.nav-link.active i.mb-boast:before{
+    background-image: url('mb-boast-red.svg');
+}
+
+a.nav-link i.mb-planes:before{
+    background-image: url('mb-planes.svg');
+}
+a.nav-link.active i.mb-planes:before{
+    background-image: url('mb-planes-red.svg');
+}
+
+a.nav-link i.mb-spares:before{
+    background-image: url('mb-spares.svg');
+}
+a.nav-link.active i.mb-spares:before{
+    background-image: url('mb-spares-red.svg');
+}
+

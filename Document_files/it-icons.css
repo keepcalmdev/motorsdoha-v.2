@@ -9,11 +9,11 @@ i.it:before{
 }
 
 i.it-milage:before{
-    background-image: url('../img/icons/it-milage.svg');
+    background-image: url('it-milage.svg');
 }
 i.it-gearbox:before{
-    background-image: url('../img/icons/it-gearbox.svg');
+    background-image: url('it-gearbox.svg');
 }
 i.it-fuel:before{
-    background-image: url('../img/icons/it-fuel.svg');
+    background-image: url('it-fuel.svg');
 }

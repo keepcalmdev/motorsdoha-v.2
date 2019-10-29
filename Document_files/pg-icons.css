@@ -1,0 +1,48 @@
+
+/** Icons **/
+i.pg:before{
+    display: block;
+    content: ' ';
+
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 65px;
+    width: 130px;
+
+    border-radius: 22px;
+    margin: 0 auto;
+margin-bottom: 20px;
+    background-size: contain;
+
+
+}
+
+i.pg-all-brands:before{
+    background-image: url('pg-all-brands.svg');
+}
+i.pg-free-support:before{
+    background-image: url('pg-free-support.svg');
+}
+i.pg-dealership:before{
+    background-image: url('pg-dealership.svg');
+}
+i.pg-affordable:before{
+    background-image: url('pg-affordable.svg');
+}
+
+
+i.pg-vehicles-in-stock:before{
+    background-image: url('pg-vehicles-in-stock.svg');
+}
+i.pg-dealer-reviews:before{
+    background-image: url('pg-dealer-reviews.svg');
+}
+i.pg-happy-customers:before{
+    background-image: url('pg-happy-customers.svg');
+}
+i.pg-awards:before{
+    background-image: url('pg-awards.svg');
+}
+
+
+

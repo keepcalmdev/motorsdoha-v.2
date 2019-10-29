@@ -1,12 +1,12 @@
 .homescreen .carousel-control-prev-icon{
-    background: url("../img/icons/carousel-control-prev-icon.svg");
+    background: url("carousel-control-prev-icon.svg");
     width: 24px;
     height: 44px;
     margin-right:  80px;
 
 }
 .homescreen .carousel-control-next-icon{
-    background: url("../img/icons/carousel-control-next-icon.svg");
+    background: url("carousel-control-next-icon.svg");
     width: 24px;
     height: 44px;
     margin-left: 80px;
@@ -64,11 +64,11 @@
 
 
 .section--body-slider .slick-next:before,.testimonials .slick-next:before{
-    content: url("../img/icons/carousel-control-next-icon-red.svg");
+    content: url("carousel-control-next-icon-red.svg");
     display: block;
 }
 .section--body-slider .slick-prev:before,.testimonials .slick-prev:before{
-    content: url("../img/icons/carousel-control-prev-icon-red.svg");
+    content: url("carousel-control-prev-icon-red.svg");
     display: block;
 }
 

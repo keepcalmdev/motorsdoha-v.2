@@ -17,12 +17,12 @@ i.lg:before{
 }
 
 i.lg-compare:before{
-    background-image: url('../img/icons/lg-compare.svg');
+    background-image: url('lg-compare.svg');
 }
 i.lg-watch:before{
-    background-image: url('../img/icons/lg-watch.svg');
+    background-image: url('lg-watch.svg');
 }
 i.lg-fullscreen:before{
-    background-image: url('../img/icons/lg-fullscreen.svg');
+    background-image: url('lg-fullscreen.svg');
 }
 
